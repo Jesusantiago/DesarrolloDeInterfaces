@@ -41,3 +41,4 @@ C:\Users\alumno\Desktop\Demont\DesarrolloDeInterfacez\c--main\c--main\WinFormsAp
 C:\Users\alumno\Desktop\Demont\DesarrolloDeInterfacez\c--main\c--main\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.pdb
 C:\Users\alumno\Desktop\Demont\DesarrolloDeInterfacez\c--main\c--main\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.genruntimeconfig.cache
 C:\Users\alumno\Desktop\Demont\DesarrolloDeInterfacez\c--main\c--main\WinFormsApp2\obj\Debug\net9.0-windows\ref\WinFormsApp2.dll
+C:\Users\alumno\Desktop\Demont\DesarrolloDeInterfacez\c--main\c--main\WinFormsApp2\obj\Debug\net9.0-windows\WinFormsApp2.sourcelink.json
