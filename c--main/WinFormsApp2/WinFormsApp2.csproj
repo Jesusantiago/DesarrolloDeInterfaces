@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net9.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="Ejercicio2_clase_descuentos.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Ejercicio3_clase_switch.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Ejercicio4_Edad.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Ejercicio5_Clase_string.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Ejercicio6_clase_bucleFor.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+</Project>
