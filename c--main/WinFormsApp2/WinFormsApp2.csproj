@@ -27,6 +27,9 @@
       <Compile Update="Ejercicio8_While.cs">
         <SubType>Form</SubType>
       </Compile>
+      <Compile Update="Ejercicio9_BucleAnidados.cs">
+        <SubType>Form</SubType>
+      </Compile>
     </ItemGroup>
 
 </Project>
