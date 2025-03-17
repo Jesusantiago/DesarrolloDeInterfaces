@@ -33,6 +33,9 @@
       <Compile Update="Ejercicio10_CalcularLaMedia.cs">
         <SubType>Form</SubType>
       </Compile>
+      <Compile Update="Ejercicio3_POO.cs">
+        <SubType>Form</SubType>
+      </Compile>
     </ItemGroup>
 
 </Project>
