@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\bin\Debug\net9.0-windows\proyectoFinal.exe
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\bin\Debug\net9.0-windows\proyectoFinal.deps.json
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\bin\Debug\net9.0-windows\proyectoFinal.runtimeconfig.json
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\bin\Debug\net9.0-windows\proyectoFinal.dll
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\bin\Debug\net9.0-windows\proyectoFinal.pdb
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.AssemblyInfo.cs
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.sourcelink.json
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.dll
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\refint\proyectoFinal.dll
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.pdb
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\proyectoFinal.genruntimeconfig.cache
+C:\Users\Win10\Desktop\programacion\DesarrolloDeInterfaces\calculadora\proyectoFinal\obj\Debug\net9.0-windows\ref\proyectoFinal.dll
